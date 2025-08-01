@@ -2,9 +2,15 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="center">
-  <a href="https://getayush.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-getayush.netlify.app-orange?style=flat-square&logo=netlify"></a>
-  <a href="mailto:akmirzapur063@gmail.com"><img src="https://img.shields.io/badge/Gmail-akmirzapur063@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/ayush-martand-01729625b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ayush Martand-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://getayush.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-getayush.netlify.app-orange?style=flat-square&logo=netlify">
+  </a>
+  <a href="mailto:akmirzapur063@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-akmirzapur063@gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-martand-30a2a3368/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Martand-blue?style=flat-square&logo=linkedin">
+  </a>
 </p>
 
 ---
@@ -23,23 +29,21 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`C` `Python` `JavaScript` `SQL`  
+`C` `Python` `JavaScript` `SQL`
 
 **Frameworks/Libraries:**  
-`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `.Net Core` `Redux Toolkit`  
+`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `.Net Core` `Redux Toolkit`
 
 **Tools/Platforms:**  
-`GitHub` `Postman` `Netlify` `Vercel` `MongoDB Atlas` `Heroku` `Firebase` `AWS` `GCP` `Figma` `Thunder Client`  
+`GitHub` `Postman` `Netlify` `Vercel` `MongoDB Atlas` `Heroku` `Firebase` `AWS` `GCP` `Figma` `Thunder Client`
 
 ---
 
 ### 🧩 Projects
 
-🔹 [Flatmate](https://flatmate.netlify.app) – A platform for booking PGs/Rooms/Hostels with real-time availability.
-
-🔹 [Weather App](https://weather-ten-blush.vercel.app) – A real-time weather forecasting platform with alerts.
-
-🔹 [Beach Booking](https://beach-main.vercel.app) – Browse & reserve beach spots with real-time updates and secure payments.
+🔹 [Flatmate](https://flatmate.netlify.app) – A platform for booking PGs/Rooms/Hostels with real-time availability.  
+🔹 [Weather App](https://weather-ten-blush.vercel.app) – Real-time weather forecast with alert system.  
+🔹 [Beach Booking](https://beach-main.vercel.app) – Reserve beach spots with real-time updates and secure payments.
 
 ---
 
@@ -54,9 +58,23 @@
 ### 📫 Let's Connect
 
 📧 Email: akmirzapur063@gmail.com  
-🌐 Portfolio: [getayush.netlify.app](https://getayush.netlify.app)
+🌐 Portfolio: [getayush.netlify.app](https://getayush.netlify.app)  
+🔗 LinkedIn: [linkedin.com/in/ayush-martand-30a2a3368](https://www.linkedin.com/in/ayush-martand-30a2a3368/)
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-AK063&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-AK063&layout=compact&theme=radical)
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-AK063&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-AK063&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-AK063&theme=react-dark" alt="Contribution Graph" />
+</p>
