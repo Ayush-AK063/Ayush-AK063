@@ -32,7 +32,7 @@
 `C` `Python` `JavaScript` `SQL`
 
 **Frameworks/Libraries:**  
-`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `.Net Core` `Redux Toolkit`
+`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Redux Toolkit`
 
 **Tools/Platforms:**  
 `GitHub` `Postman` `Netlify` `Vercel` `MongoDB Atlas` `Heroku` `Firebase` `AWS` `GCP` `Figma` `Thunder Client`
